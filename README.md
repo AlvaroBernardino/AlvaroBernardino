@@ -1,5 +1,3 @@
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQHJqcWNkdLhBw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732119396007?e=1758153600&v=beta&t=rDSHIGv7MqHYYYXcODUQ_doFDfVLu0jtL8OpTn_Rsxw"  />
-
 ###
 
 <div align="center">
